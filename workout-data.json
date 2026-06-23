@@ -1,14 +1,14 @@
 {
   "chest": [
     { "id": "c1", "name": "啞鈴-臥推 (寬距)", "eng": "Chest Press", "sets": 4, "reps": 10, "weightLb": 160, "rest": 60, "unit": "reps" },
-    { "id": "c2", "name": "啞鈴-上胸臥推 (寬距)", "eng": "Chest Press", "sets": 4, "reps": 10, "weightLb": 55, "rest": 40, "unit": "reps" },
-    { "id": "c3", "name": "啞鈴-平胸飛鳥", "eng": "Chest Fly", "sets": 4, "reps": 12, "weightLb": 25, "rest": 45, "unit": "reps" },
-    { "id": "c4", "name": "啞鈴-上胸飛鳥", "eng": "Chest Fly", "sets": 4, "reps": 12, "weightLb": 25, "rest": 45, "unit": "reps" },
-    { "id": "c5", "name": "啞鈴-肩側舉 (單臂)", "eng": "Lateral Raise", "sets": 3, "reps": 12, "weightLb": 15, "rest": 45, "unit": "reps" },
-    { "id": "c6", "name": "啞鈴-肩推", "eng": "Shoulder Press", "sets": 3, "reps": 10, "weightLb": 45, "rest": 60, "unit": "reps" },
-    { "id": "c7", "name": "啞鈴-屈體反飛鳥 (雙臂/平行步)", "eng": "Reverse Fly", "sets": 3, "reps": 12, "weightLb": 25, "rest": 45, "unit": "reps" },
-    { "id": "c8", "name": "啞鈴-三頭屈伸", "eng": "Triceps Extension", "sets": 2, "reps": 15, "weightLb": 22, "rest": 45, "unit": "reps" },
-    { "id": "c9", "name": "啞鈴-半跪姿三頭屈伸 (單膝支撐)", "eng": "Triceps Extension", "sets": 2, "reps": 15, "weightLb": 22, "rest": 45, "unit": "reps" }
+    { "id": "c2", "name": "啞鈴-上胸臥推 (寬距)", "eng": "Chest Press", "sets": 4, "reps": 10, "weightLb": 120, "rest": 40, "unit": "reps" },
+    { "id": "c3", "name": "啞鈴-平胸飛鳥", "eng": "Chest Fly", "sets": 4, "reps": 12, "weightLb": 50, "rest": 45, "unit": "reps" },
+    { "id": "c4", "name": "啞鈴-上胸飛鳥", "eng": "Chest Fly", "sets": 4, "reps": 12, "weightLb": 50, "rest": 45, "unit": "reps" },
+    { "id": "c5", "name": "啞鈴-肩側舉 (單臂)", "eng": "Lateral Raise", "sets": 3, "reps": 12, "weightLb": 30, "rest": 45, "unit": "reps" },
+    { "id": "c6", "name": "啞鈴-肩推", "eng": "Shoulder Press", "sets": 3, "reps": 10, "weightLb": 90, "rest": 60, "unit": "reps" },
+    { "id": "c7", "name": "啞鈴-屈體反飛鳥 (雙臂/平行步)", "eng": "Reverse Fly", "sets": 3, "reps": 12, "weightLb": 50, "rest": 45, "unit": "reps" },
+    { "id": "c8", "name": "啞鈴-三頭屈伸", "eng": "Triceps Extension", "sets": 2, "reps": 15, "weightLb": 40, "rest": 45, "unit": "reps" },
+    { "id": "c9", "name": "啞鈴-半跪姿三頭屈伸 (單膝支撐)", "eng": "Triceps Extension", "sets": 2, "reps": 15, "weightLb": 25, "rest": 45, "unit": "reps" }
   ],
   "back": [
     { "id": "b1", "name": "半固定-肩外旋 (體側肘固定)", "eng": "External Rotation of Shoulder", "sets": 2, "reps": 15, "weightLb": 10, "rest": 30, "unit": "reps" },
