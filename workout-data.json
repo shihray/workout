@@ -1,0 +1,33 @@
+{
+  "chest": [
+    { "id": "c1", "name": "啞鈴-臥推 (寬距)", "eng": "Chest Press", "sets": 4, "reps": 10, "weightLb": 160, "rest": 60, "unit": "reps" },
+    { "id": "c2", "name": "啞鈴-上胸臥推 (寬距)", "eng": "Chest Press", "sets": 4, "reps": 10, "weightLb": 55, "rest": 40, "unit": "reps" },
+    { "id": "c3", "name": "啞鈴-平胸飛鳥", "eng": "Chest Fly", "sets": 4, "reps": 12, "weightLb": 25, "rest": 45, "unit": "reps" },
+    { "id": "c4", "name": "啞鈴-上胸飛鳥", "eng": "Chest Fly", "sets": 4, "reps": 12, "weightLb": 25, "rest": 45, "unit": "reps" },
+    { "id": "c5", "name": "啞鈴-肩側舉 (單臂)", "eng": "Lateral Raise", "sets": 3, "reps": 12, "weightLb": 15, "rest": 45, "unit": "reps" },
+    { "id": "c6", "name": "啞鈴-肩推", "eng": "Shoulder Press", "sets": 3, "reps": 10, "weightLb": 45, "rest": 60, "unit": "reps" },
+    { "id": "c7", "name": "啞鈴-屈體反飛鳥 (雙臂/平行步)", "eng": "Reverse Fly", "sets": 3, "reps": 12, "weightLb": 25, "rest": 45, "unit": "reps" },
+    { "id": "c8", "name": "啞鈴-三頭屈伸", "eng": "Triceps Extension", "sets": 2, "reps": 15, "weightLb": 22, "rest": 45, "unit": "reps" },
+    { "id": "c9", "name": "啞鈴-半跪姿三頭屈伸 (單膝支撐)", "eng": "Triceps Extension", "sets": 2, "reps": 15, "weightLb": 22, "rest": 45, "unit": "reps" }
+  ],
+  "back": [
+    { "id": "b1", "name": "半固定-肩外旋 (體側肘固定)", "eng": "External Rotation of Shoulder", "sets": 2, "reps": 15, "weightLb": 10, "rest": 30, "unit": "reps" },
+    { "id": "b2", "name": "半固定-肩外旋 (肩側肘固定)", "eng": "External Rotation of Shoulder", "sets": 2, "reps": 15, "weightLb": 10, "rest": 30, "unit": "reps" },
+    { "id": "b3", "name": "半固定-屈體下拉 (寬距)", "eng": "Pull down", "sets": 4, "reps": 10, "weightLb": 160, "rest": 40, "unit": "reps" },
+    { "id": "b4", "name": "啞鈴-屈體劃船 (雙手窄距/平行步)", "eng": "Row", "sets": 4, "reps": 12, "weightLb": 100, "rest": 40, "unit": "reps" },
+    { "id": "b5", "name": "啞鈴-仰臥直臂下拉 (雙臂)", "eng": "Pullover", "sets": 4, "reps": 12, "weightLb": 50, "rest": 40, "unit": "reps" },
+    { "id": "b6", "name": "啞鈴-半跪姿劃船 (窄距)", "eng": "Row", "sets": 4, "reps": 12, "weightLb": 50, "rest": 40, "unit": "reps" },
+    { "id": "b7", "name": "啞鈴-前舉", "eng": "Front Raise", "sets": 3, "reps": 12, "weightLb": 30, "rest": 30, "unit": "reps" },
+    { "id": "b8", "name": "啞鈴-肩側舉", "eng": "Lateral Raise", "sets": 3, "reps": 12, "weightLb": 40, "rest": 40, "unit": "reps" },
+    { "id": "b9", "name": "啞鈴-二頭彎舉 (體側固定)", "eng": "Biceps Curl", "sets": 3, "reps": 15, "weightLb": 40, "rest": 40, "unit": "reps" }
+  ],
+  "legs": [
+    { "id": "l1", "name": "橋式", "eng": "Bridge", "sets": 3, "reps": 15, "weightLb": 0, "rest": 30, "unit": "reps" },
+    { "id": "l2", "name": "棒式", "eng": "Plank", "sets": 2, "reps": 50, "weightLb": 0, "rest": 25, "unit": "sec" },
+    { "id": "l3", "name": "啞鈴垂放-深蹲", "eng": "Squat", "sets": 4, "reps": 12, "weightLb": 77, "rest": 40, "unit": "reps" },
+    { "id": "l4", "name": "啞鈴垂放-直膝挺髖 (雙手持槓)", "eng": "RDL/hip hinge", "sets": 4, "reps": 12, "weightLb": 53, "rest": 40, "unit": "reps" },
+    { "id": "l5", "name": "屈膝仰臥挺髖 (雙腳)", "eng": "Hip Thrust", "sets": 4, "reps": 12, "weightLb": 26, "rest": 40, "unit": "reps" },
+    { "id": "l6", "name": "啞鈴垂放-前弓步蹲 (原地/雙手)", "eng": "Lunge", "sets": 4, "reps": 15, "weightLb": 53, "rest": 60, "unit": "reps" },
+    { "id": "l7", "name": "半固定-仰臥捲腹", "eng": "Crunch", "sets": 4, "reps": 15, "weightLb": 0, "rest": 30, "unit": "reps" }
+  ]
+}
